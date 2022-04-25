@@ -24,6 +24,9 @@ Write a program that works for any n. Test it for n = 9999999.
 After how many round this game will end?
 
 Finish the program:
+
+https://www.online-python.com/8TGyERdwps
+
 ```python
 def play(n, x):
     print("3")
