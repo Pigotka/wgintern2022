@@ -35,12 +35,4 @@ Tomas Novak
 According to input file Tomas finished the run on second place therefore we print Tomas to the output.
 
 **Finish the program:**
-```python
-    def findRunnerUp(file):
-        print "Tomas Novak"
-
-    if __name__ == "__main__":
-        f = open('input.txt')
-        findRunnerUp(f)
-```
 https://www.online-python.com/tR485F3HhA
