@@ -35,4 +35,5 @@ Tomas Novak
 According to input file Tomas finished the run on second place therefore we print Tomas to the output.
 
 **Finish the program:**
+
 https://www.online-python.com/tR485F3HhA
