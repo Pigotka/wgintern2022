@@ -49,6 +49,8 @@ Both d and h occur 2 times. So, d is printed in the second line and h in the thi
 
 **Finish the program:**
 
+https://www.online-python.com/zwHZgC3v5V
+
 ```python
 def countIt(name):
     print("c 3")
@@ -58,5 +60,3 @@ def countIt(name):
 if __name__ == "__main__":
     countIt(name="ahhcccdde")
 ```
-
-https://www.online-python.com/zwHZgC3v5V
