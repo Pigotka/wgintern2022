@@ -37,3 +37,12 @@ According to input file Tomas finished the run on second place therefore we prin
 **Finish the program:**
 
 https://www.online-python.com/tR485F3HhA
+
+```python
+def findRunnerUp(file):
+    print("Tomas Novak")
+
+if __name__ == "__main__":
+    f = open('input.txt')
+    findRunnerUp(f)
+```
